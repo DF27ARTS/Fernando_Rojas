@@ -1,4 +1,4 @@
-![Hello everyone, I'm Fernando](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
+![Hello everyone, I'm Fernando](https://github.com/WanCirone/wancirone/blob/main/assets/gifntext-gif.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Colombia to :earth_americas:
@@ -37,4 +37,5 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 <span >
 <a href="https://www.linkedin.com/in/wanda-trinidad-cirone/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
 <a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+</span><a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
 </span>
