@@ -1,4 +1,4 @@
-![Hi, I'm Wanda](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
+![Hello everyone, I'm Fernando](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Colombia to :earth_americas:
@@ -13,7 +13,6 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
@@ -23,3 +22,19 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 </p>
 
 &nbsp;
+
+## :pushpin: My proyects
+
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+</p>
+&nbsp;
+
+## :paperclip: How to reach me:
+
+<span >
+<a href="https://www.linkedin.com/in/wanda-trinidad-cirone/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+</span>
