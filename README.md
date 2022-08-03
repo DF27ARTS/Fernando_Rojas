@@ -1,5 +1,5 @@
 
-<code><img width="1000px" height="400px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/assets/gifntext-gif.gif"></code>
+<code><img width="800px" height="400px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/assets/gifntext-gif.gif"></code>
 
 <h2 align="center">
 Full Stack Developer :heart: from Colombia to :earth_americas:
