@@ -19,6 +19,15 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 
 &nbsp;
 
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/diego-fernando-rojas-carrillo-full-stack-developer/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+</span><a href="mailto:diego27Fernando72@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+</span>
+ 
+ 
+&nbsp;&nbsp;
+
 ## :star: Languages and Tools:
 
 <p>
@@ -50,9 +59,6 @@ breeds
 </p>
 &nbsp;
 
-## :paperclip: How to reach me:
 
-<span >
-<a href="https://www.linkedin.com/in/diego-fernando-rojas-carrillo-full-stack-developer/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-</span><a href="mailto:diego27Fernando72@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
-</span>
+
+
