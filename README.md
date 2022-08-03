@@ -7,6 +7,18 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 
 &nbsp;&nbsp;
 
+<p>
+ <h2> About Me </h2>
+ <ul>
+   <li> I'm from Colombia, I started the Henry Bootcamp a few months ago. I am passionate about technology and look forward to continuing to learn and improve my technology skills </li>
+   <li> I have knowledge of different technologies including React, Redux, Node JS, HTML among others </li>
+   <li> I'm looking to learn new technologies like Payton and Angular </li>
+   <li> If you want to contact me, you can find my email and Linkedin down below </li>
+ </ul>
+</p>
+
+&nbsp;
+
 ## :star: Languages and Tools:
 
 <p>
@@ -23,16 +35,6 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 </p>
 
 &nbsp;
-
-<p>
- <h2> About Me </h2>
- <ul>
-   <li> I'm from Colombia, I started the Henry Bootcamp a few months ago. I am passionate about technology and look forward to continuing to learn and improve my technology skills </li>
-   <li> I have knowledge of different technologies including React, Redux, Node JS, HTML among others </li>
-   <li> I'm looking to learn new technologies like Payton and Angular </li>
-   <li> If you want to contact me, you can find my email and Linkedin down below </li>
- </ul>
-</p>
 
 &nbsp;
 
