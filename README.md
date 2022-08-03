@@ -24,12 +24,27 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 
 &nbsp;
 
-## :pushpin: My proyects
-
 <p>
-  <a><img width="400px" height="200px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/home-page.png"></a>
-  <a><img width="400px" height="200px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/favorite-page.png"></a>
-  <a><img width="400px" height="200px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/form-create-dog.png"></a>
+ <h2> About Me </h2>
+ <ul>
+   <li> I'm from Colombia, I started the Henry Bootcamp a few months ago. I am passionate about technology and look forward to continuing to learn and improve my technology skills </li>
+   <li> I have knowledge of different technologies including React, Redux, Node JS, HTML among others </li>
+   <li> I'm looking to learn new technologies like Payton and Angular </li>
+   <li> If you want to contact me, you can find my email and Linkedin down below </li>
+ </ul>
+</p>
+
+&nbsp;
+
+## :pushpin: My proyects
+breeds
+<p>
+  <h3> Dogs Api </h3>
+  <p> This is an application where you can find different dog breeds and you can also filter them by Weight and breed. The application has a search to find by name and you have a form to create your own breed dog too </p>
+  
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/home-page.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/favorite-page.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/form-create-dog.png"></a>
 </p>
 &nbsp;
 
