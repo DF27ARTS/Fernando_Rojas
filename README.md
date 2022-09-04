@@ -69,8 +69,8 @@ breeds
 <p>
   <h3> Weather App </h3>
   
-  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img1.png"></a>
-  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img3.png"></a>
-  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img6.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img1.jpg"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img3.jpg"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img6.jpg"></a>
 </p>
 &nbsp;
