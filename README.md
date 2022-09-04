@@ -1,4 +1,3 @@
-
 <code><img width="800px" height="400px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/assets/gifntext-gif.gif"></code>
 
 <h2 align="center">
@@ -20,6 +19,7 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 &nbsp;
 
 ## :paperclip: How to reach me:
+
 <span >
 <a href="https://www.linkedin.com/in/diego-fernando-rojas-carrillo-full-stack-developer/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
 </span><a href="mailto:diego27Fernando72@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
@@ -48,17 +48,29 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 &nbsp;
 
 ## :pushpin: My proyects
+
 breeds
+
 <p>
   <h3> Dogs Api </h3>
   <p> This is an application where you can find different dog breeds and you can also filter them by Weight and breed. The application has a search to find by name and you have a form to create your own breed dog too </p>
   
-  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/home-page.png"></a>
-  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/favorite-page.png"></a>
-  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/form-create-dog.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/app_dogs1.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/app_dogs2.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/app_dogs4.png"></a>
+</p>
+<p>
+  <h3> Synnet </h3>
+  
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/synnet_image1.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/synnet_image4.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/synnet_image5.png"></a>
+</p>
+<p>
+  <h3> Weather App </h3>
+  
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img1.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img3.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img6.png"></a>
 </p>
 &nbsp;
-
-
-
-
