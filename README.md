@@ -25,6 +25,8 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 </span><a href="mailto:diego27Fernando72@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
 </span>
  
+ <a href="https://portfoliio-g1d81e4cr-df27arts.vercel.app/"><h2>Portfolio</h2></a>
+ <a href="https://portfoliio-g1d81e4cr-df27arts.vercel.app/"><h2>Download CV</h2></a>
  
 &nbsp;&nbsp;
 
