@@ -52,7 +52,9 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 breeds
 
 <p>
-  <h3> Dogs Api </h3>
+  <a href="https://henry-pi-dogs-d26rn64ql-df27arts.vercel.app/">
+    <h3> Dogs Api </h3>
+  </a>
   <p> This is an application where you can find different dog breeds and you can also filter them by Weight and breed. 
   The application has a search to find by name and you have a form to create your own breed dog too </p>
   
@@ -61,7 +63,9 @@ breeds
   <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/app_dogs4.png"></a>
 </p>
 <p>
-  <h3> Synnet </h3>
+  <a href="https://proyecto-final-rho-three.vercel.app/">
+    <h3> Synnet </h3>
+  <a>
   <p>In this application you can create and participate in different tournaments it also contains a gallery, chatbot, dashboard,
   filter, search engine, administration panel, payment method, sign up and login and more</p>
   
@@ -70,7 +74,9 @@ breeds
   <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/synnet_image5.png"></a>
 </p>
 <p>
-  <h3> Weather App </h3>
+  <a href="https://weather-app-dusky-phi.vercel.app/">
+    <h3> Weather App </h3>
+  </a>
   <p>This is an application where you can find the weather in different cities, it contains a search engine, the homepage, the favorites section, and the city details</p>
   
   <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/weather_app_img1.jpg"></a>
