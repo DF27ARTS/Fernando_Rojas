@@ -1,8 +1,7 @@
-<code><img width="800px" height="400px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/assets/gifntext-gif.gif"></code>
 
-<h2 align="center">
-Full Stack Developer :heart: from Colombia to :earth_americas:
-</h2>
+<code>
+  <img width="80%" autoplay  src="./assets/Profile-gift.gif"  >
+</code>
 
 &nbsp;&nbsp;
 
@@ -21,28 +20,109 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 ## :paperclip: How to reach me:
 
 <span >
-<a href="https://www.linkedin.com/in/diego-fernando-rojas-carrillo-full-stack-developer/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-</span><a href="mailto:diego27Fernando72@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+  <a href="https://www.linkedin.com/in/diego-fernando-rojas-carrillo-full-stack-developer/" >
+    <img height="50px" src="./logos/LinkedIn-Icon.svg">
+    <!-- <img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> -->
+  </a>
+  <a href="mailto:diego27Fernando72@gmail.com" >
+    <img height="50px" src="./logos/Email-Icon.svg">
+    <!-- <img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png"> -->
+  </a>
+  <a href="https://twitter.com/_DF_Fernando" >
+    <img height="50px" src="./logos/Twitter-Icon.svg">
+  </a>
+  <a href="https://wa.me/573202074828" >
+    <img height="50px" src="./logos/Whatsapp-Icon.svg">
+  </a>
 </span>
+
+</br>
  
- <a href="https://portfoliio-g1d81e4cr-df27arts.vercel.app/"><h2>Portfolio</h2></a>
- <a href="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/My_CV.pdf" download >Download CV</a>
+<h2>Portfolio</h2>
+<a href="https://portfoliio-g1d81e4cr-df27arts.vercel.app/">
+  <img height="50px" src="./images/Profile-image.png">
+</a>
+
+<a href="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/My_CV.pdf" download >Download CV</a>
  
 &nbsp;&nbsp;
 
 ## :star: Languages and Tools:
 
+</br>
+
+## Front-end Tools
+
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
-  <br />
+  <code>
+    <img height="80px" src="./logos/CSS-Icon.svg">
+    <!-- <img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/CSS-Icon.svg"> -->
+  </code>
+  <code>
+    <img height="80px" src="./logos/HTML-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/Javascript-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/Typescript-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/React-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/Redux-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/Sass-Icon.svg">
+  </code>
+</p>
+
+
+
+
+<br/>
+<br/>
+
+## Back-end Tools
+
+<p>
+  <code>
+    <img height="80px" src="./logos/NodeJS-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/Express-Icon.svg">
+  </code>
+  <code>
+    <img height="80px"  src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/PostgreSQL-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/Git-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/Github-Icon.svg">
+  </code>
+</p>
+
+
+<br/>
+<br/>
+
+## I'm learning
+
+<p>
+  <code>
+    <img height="80px" src="./logos/Python-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/FastAPI-Icon.svg">
+  </code>
+  <code>
+    <img height="80px" src="./logos/MongoDB-Icon.svg">
+  </code>
 </p>
 
 &nbsp;
