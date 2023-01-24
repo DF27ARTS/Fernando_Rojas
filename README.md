@@ -1,7 +1,5 @@
 
-<code>
-  <img width="80%" autoplay  src="./assets/Profile-gift.gif"  >
-</code>
+<code> <img width="80%" autoplay  src="./assets/Profile-gift.gif" > </code>
 
 &nbsp;&nbsp;
 
@@ -54,31 +52,14 @@
 ## Front-end Tools
 
 <p>
-  <code>
-    <img height="80px" src="./logos/CSS-Icon.svg">
-    <!-- <img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/CSS-Icon.svg"> -->
-  </code>
-  <code>
-    <img height="80px" src="./logos/HTML-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/Javascript-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/Typescript-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/React-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/Redux-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/Sass-Icon.svg">
-  </code>
+  <code><img height="80px" src="./logos/CSS-Icon.svg"></code>
+  <code><img height="80px" src="./logos/HTML-Icon.svg"></code>
+  <code><img height="80px" src="./logos/Javascript-Icon.svg"></code>
+  <code><img height="80px" src="./logos/Typescript-Icon.svg"></code>
+  <code><img height="80px" src="./logos/React-Icon.svg"></code>
+  <code><img height="80px" src="./logos/Sass-Icon.svg"></code>
+  <code><img height="80px" src="./logos/Redux-Icon.svg"></code>
 </p>
-
-
 
 
 <br/>
@@ -87,24 +68,12 @@
 ## Back-end Tools
 
 <p>
-  <code>
-    <img height="80px" src="./logos/NodeJS-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/Express-Icon.svg">
-  </code>
-  <code>
-    <img height="80px"  src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/PostgreSQL-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/Git-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/Github-Icon.svg">
-  </code>
+  <code><img height="80px" src="./logos/NodeJS-Icon.svg"></code>
+  <code><img height="80px" src="./logos/Express-Icon.svg"></code>
+  <code><img height="80px"  src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <code><img height="80px" src="./logos/PostgreSQL-Icon.svg"></code>
+  <code><img height="80px" src="./logos/Git-Icon.svg"></code>
+  <code><img height="80px" src="./logos/Github-Icon.svg"></code>
 </p>
 
 
@@ -114,15 +83,9 @@
 ## I'm learning
 
 <p>
-  <code>
-    <img height="80px" src="./logos/Python-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/FastAPI-Icon.svg">
-  </code>
-  <code>
-    <img height="80px" src="./logos/MongoDB-Icon.svg">
-  </code>
+  <code><img height="80px" src="./logos/Python-Icon.svg"></code>
+  <code><img height="80px" src="./logos/FastAPI-Icon.svg"></code>
+  <code><img height="80px" src="./logos/MongoDB-Icon.svg"></code>
 </p>
 
 &nbsp;
