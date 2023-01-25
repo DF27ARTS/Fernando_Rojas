@@ -88,6 +88,10 @@
   <code><img height="80px" src="./logos/MongoDB-Icon.svg"></code>
 </p>
 
+</br>
+
+<p><a href="https://icons8.com/">Link</a> to de svg icons page</p>
+
 &nbsp;
 
 &nbsp;
