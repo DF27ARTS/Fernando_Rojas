@@ -1,7 +1,5 @@
 
-<code> <img width="80%" autoplay  src="./assets/Profile-gift.gif" > </code>
-
-&nbsp;&nbsp;
+<img width="80%" autoplay  src="./assets/Profile-gift.gif" > 
 
 <p>
  <h2> About Me </h2>
@@ -98,7 +96,16 @@
 
 ## :pushpin: My proyects
 
-breeds
+<p>
+  <a href="https://job-hunter-arkcl5zem-df27arts.vercel.app">
+    <h3> Job Hunter </h3>
+  </a>
+  <p> Job Hunter will help you keep track of all the job applications you make during your job search. It includes a landing page, login and registration features, filters, a search engine, and infinite loading. </p>
+  
+  <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Jub-Hunter/blob/main/client/src/Job_hunter_assets/job-hunter-img-one.png"></25
+  <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Jub-Hunter/blob/main/client/src/Job_hunter_assets/job-hunter-img-two.png"></a>
+  <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Jub-Hunter/blob/main/client/src/Job_hunter_assets/job-hunter-img-three.png"></a>
+</p>
 
 <p>
   <a href="https://henry-pi-dogs-d26rn64ql-df27arts.vercel.app/">
@@ -111,6 +118,7 @@ breeds
   <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/app_dogs2.png"></a>
   <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/app_dogs4.png"></a>
 </p>
+
 <p>
   <a href="https://proyecto-final-rho-three.vercel.app/">
     <h3> Synnet </h3>
@@ -122,6 +130,7 @@ breeds
   <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/synnet_image4.png"></a>
   <a><img width="250px" height="125px" src="https://github.com/DF27ARTS/Fernando_Rojas/blob/main/images/synnet_image5.png"></a>
 </p>
+   
 <p>
   <a href="https://weather-app-dusky-phi.vercel.app/">
     <h3> Weather App </h3>
