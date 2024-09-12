@@ -13,9 +13,8 @@ cumpliendo con los estándares de la industria.
 
 ## Portfolio
 
-<a href="https://fernandorojas.vercel.app/" download >
-
-![Portfolio](./images/portfolio.webp)
+<a href="https://fernandorojas.vercel.app/" >
+  <img src="./images//portfolio.webp" />
 </a>
 
 [Open CV](https://fernandorojas.vercel.app/es/curriculum.pdf)
